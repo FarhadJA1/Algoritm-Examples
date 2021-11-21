@@ -1,0 +1,17 @@
+Name: If Number is Divisible by 3 and 7 Pseudocode Algoritm
+
+input - n
+
+       n%3 > 0
+       print: "Not divisible"
+   else
+       n%3 = 0
+       print: "Divisible"
+  
+
+            n%7 > 0
+            print: "Not Divisible"
+        else
+            n%7 = 0
+            print: "Divisible"
+            

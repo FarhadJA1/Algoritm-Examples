@@ -1,0 +1,10 @@
+Name: Weather temprature is cold/hot checking pseudocode algoritm
+
+input - weather
+    
+       if 
+         weather > 15
+         print "The weather is hot"
+       else
+         weather < 15
+         print "The weather is cold'

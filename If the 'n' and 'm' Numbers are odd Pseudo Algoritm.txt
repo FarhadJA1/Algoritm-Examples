@@ -1,0 +1,26 @@
+Name: If the 'n' and 'm' numbers are odd pseudo algoritm
+
+input - n , m
+
+      n%2 != 0
+      print: "The number is even"
+  else
+      n%2 = 0
+      print: "The number is odd"
+
+
+                   m%2 != 0
+                   print: "The number is even"
+               else
+                   m%2 = 0
+                   print: "The number is odd"
+
+                   
+                            n,m numbers = odd
+                            print: n + m
+                        else
+                            n,m number = even
+                            print: "One or both numbers are even." 
+
+      
+             
